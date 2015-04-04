@@ -6,7 +6,7 @@ Devtips Starter Kit:
 [Get on GitHub](https://github.com/DevTips/DevTips-Starter-Kit)
 
 Bourbon.io:
-[Visit officail site](bourbon.io)
+[Visit officail site](http://bourbon.io/)
 
 ![screenshots](assets/img/tops.png)
 ![screenshots](assets/img/bot.png)
