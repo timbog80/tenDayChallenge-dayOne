@@ -5,7 +5,7 @@ A ten day challenge that I've challenged myself to do. dayOne is a simple blog t
 Devtips Starter Kit:
 [Get on GitHub](https://github.com/DevTips/DevTips-Starter-Kit)
 
-Bourbon.io
+Bourbon.io:
 [Visit officail site](bourbon.io)
 
 ![screenshots](assets/img/tops.png)
